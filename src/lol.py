@@ -16,7 +16,7 @@ from utils import play_sound
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
-PROJECT_URL = "https://github.com/WilliamLinx/project_learn"
+PROJECT_URL = "https://github.com/Sightless123/LoL-Announcer"
 LOCALGAME_URL = "https://127.0.0.1:2999/liveclientdata/allgamedata"
 
 
