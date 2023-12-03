@@ -1,20 +1,20 @@
 # LoL Announcer
-Non-invasive way to have a custom announcer for League of Legends. This was created as a code learning project. Feel free to fork it or create issues.
+Non-invasive (using official game API) way to have a custom announcer for League of Legends. This was created as a code learning project. Feel free to fork it or create issues. Map your sounds according to game_sounds.py.
 
 ## How to install
 Create new virutal environment
 ```
 py -m venv venv
 ```
-Active venv
+Activate venv
 ```
 venv\Scripts\activate
 ```
 Install dependencies
 ```
-pip install -r requirements.txt
+pip install -r src\requirements.txt
 ```
 ## How to run
 ```
-py lol.py
+py src\lol.py
 ```
