@@ -2,7 +2,7 @@
 Non-invasive (using official game API) way to have a custom announcer for League of Legends. This was created as a code learning project. Feel free to fork it or create issues. Map your sounds according to game_sounds.py.
 
 ## How to install
-Create new virutal environment
+Create new virtual environment
 ```
 py -m venv venv
 ```
